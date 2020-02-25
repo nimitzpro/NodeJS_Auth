@@ -1,0 +1,9 @@
+GET http://localhost:3000/api/posts
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTU0NDcxNzU2NDE5NTIwZWE1M2YzNGMiLCJpYXQiOjE1ODI1ODg3Mzl9.ngU_WshR4ygMEnadkG52W_FNoMax1v3skHC-l_Kh0FU
+# POST http://localhost:3000/api/user/login
+# content-type: application/json
+
+# {
+#     "email":"alex@gmail.com",
+#     "password":"password123"
+# }
